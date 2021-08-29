@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kumarnadhprojects/Gallery_App_ReactJS.git/static/css/main.8526e759.chunk.css",
+    "main.js": "/kumarnadhprojects/Gallery_App_ReactJS.git/static/js/main.cb0ef553.chunk.js",
+    "main.js.map": "/kumarnadhprojects/Gallery_App_ReactJS.git/static/js/main.cb0ef553.chunk.js.map",
+    "runtime-main.js": "/kumarnadhprojects/Gallery_App_ReactJS.git/static/js/runtime-main.71bc88c8.js",
+    "runtime-main.js.map": "/kumarnadhprojects/Gallery_App_ReactJS.git/static/js/runtime-main.71bc88c8.js.map",
+    "static/js/2.43512a6d.chunk.js": "/kumarnadhprojects/Gallery_App_ReactJS.git/static/js/2.43512a6d.chunk.js",
+    "static/js/2.43512a6d.chunk.js.map": "/kumarnadhprojects/Gallery_App_ReactJS.git/static/js/2.43512a6d.chunk.js.map",
+    "index.html": "/kumarnadhprojects/Gallery_App_ReactJS.git/index.html",
+    "static/css/main.8526e759.chunk.css.map": "/kumarnadhprojects/Gallery_App_ReactJS.git/static/css/main.8526e759.chunk.css.map",
+    "static/js/2.43512a6d.chunk.js.LICENSE.txt": "/kumarnadhprojects/Gallery_App_ReactJS.git/static/js/2.43512a6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71bc88c8.js",
+    "static/js/2.43512a6d.chunk.js",
+    "static/css/main.8526e759.chunk.css",
+    "static/js/main.cb0ef553.chunk.js"
+  ]
+}
