@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/kumarnadhprojects/Gallery_App_ReactJS.git",
   "name": "gallery-app",
+  "homepage": "https://github.com/kumarnadhprojects/Gallery_App_ReactJS",
   "private": true,
   "version": "1.0.0",
   "engines": {
